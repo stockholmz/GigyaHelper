@@ -1,0 +1,14 @@
+{
+    "name": "nikolajstockholm/gigya-helper",
+    "authors": [
+        {
+            "name": "Nikolaj Stockholm",
+            "email": "kontakt@nikolajstockholm.dk"
+        }
+    ],
+    "require": {
+        "gigya/php-sdk": "^3.0",
+        "psy/psysh": "^0.10.5",
+        "symfony/dotenv": "^5.2"
+    }
+}
